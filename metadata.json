@@ -1,0 +1,6 @@
+{
+  "name": "Guess the Number Game",
+  "description": "An elegant Guess the Number game with Player vs Player, Player vs AI, and AI vs AI modes featuring beautiful visuals and voice guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
